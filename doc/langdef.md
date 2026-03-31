@@ -1,4 +1,4 @@
-# Language Definition
+ C# # Language Definition
 
 This page constitutes the reference for CEL. For a gentle introduction, see
 [Intro](intro.md).
